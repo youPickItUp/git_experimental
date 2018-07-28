@@ -1,2 +1,4 @@
 Pierwsze zdanie o jabłku.
 Drugie zdanie o gruszce.
+Trzecie zdanie o ziemniaku.
+
